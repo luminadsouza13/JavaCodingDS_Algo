@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e3bd570-e1f7-4032-81db-9c22f80e2773" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="193" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YOjdeQd1lwg9GjlSy7TW3WC7LC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Maxsubarray">
+    <configuration name="AveragePair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.AveragePair" />
+      <module name="LearningJavaSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountDistinctValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CountDistinctValues" />
+      <module name="LearningJavaSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountUniqueValues_Hashset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CountUniqueValues_Hashset" />
+      <module name="LearningJavaSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.IsSubsequence" />
+      <module name="LearningJavaSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maxsubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Maxsubarray" />
+      <module name="LearningJavaSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CountUniqueValues_Hashset" />
+      <item itemvalue="Application.CountDistinctValues" />
+      <item itemvalue="Application.AveragePair" />
+      <item itemvalue="Application.IsSubsequence" />
+      <item itemvalue="Application.Maxsubarray" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Maxsubarray" />
+        <item itemvalue="Application.IsSubsequence" />
+        <item itemvalue="Application.AveragePair" />
+        <item itemvalue="Application.CountDistinctValues" />
+        <item itemvalue="Application.CountUniqueValues_Hashset" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e3bd570-e1f7-4032-81db-9c22f80e2773" name="Default Changelist" comment="" />
+      <created>1582820624093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582820624093</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1356" height="201" key="GridCell.Tab.0.bottom" timestamp="1583263093489">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1356" height="201" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1583263093489" />
+    <state width="1356" height="201" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1583192021218" />
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1582832137471" />
+    <state width="1356" height="201" key="GridCell.Tab.0.center" timestamp="1583263093488">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1356" height="201" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1583263093488" />
+    <state width="1356" height="201" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1583192021217" />
+    <state width="1358" height="201" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1582832137462" />
+    <state width="1356" height="201" key="GridCell.Tab.0.left" timestamp="1583263093488">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1356" height="201" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1583263093488" />
+    <state width="1356" height="201" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1583192021216" />
+    <state width="1358" height="201" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1582832137461" />
+    <state width="1356" height="201" key="GridCell.Tab.0.right" timestamp="1583263093488">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1356" height="201" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1583263093488" />
+    <state width="1356" height="201" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1583192021217" />
+    <state width="1358" height="201" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1582832137469" />
+    <state width="1356" height="249" key="GridCell.Tab.1.bottom" timestamp="1583179496994">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1356" height="249" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1583179496994" />
+    <state width="1356" height="249" key="GridCell.Tab.1.center" timestamp="1583179496992">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1356" height="249" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1583179496992" />
+    <state width="1356" height="249" key="GridCell.Tab.1.left" timestamp="1583179496991">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1356" height="249" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1583179496991" />
+    <state width="1356" height="249" key="GridCell.Tab.1.right" timestamp="1583179496993">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1356" height="249" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1583179496993" />
+    <state x="399" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1582820710141">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="399" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1582820710141" />
+    <state x="290" y="179" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583179225040">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="290" y="179" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.827@0.23.1440.827" timestamp="1583179225040" />
+    <state x="458" y="196" width="524" height="484" key="extract.method.dialog" timestamp="1583178965759">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="458" y="196" width="524" height="484" key="extract.method.dialog/0.23.1440.827@0.23.1440.827" timestamp="1583178965759" />
+    <state x="312" y="24" width="816" height="825" key="find.popup" timestamp="1583178996339">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="312" y="24" width="816" height="825" key="find.popup/0.23.1440.827@0.23.1440.827" timestamp="1583178996339" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1583184059189">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.827@0.23.1440.827" timestamp="1583184059189" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LearningJavaSkills$Main.ic" NAME="Main Coverage Results" MODIFIED="1583178917587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
